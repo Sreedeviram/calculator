@@ -15,9 +15,6 @@ function App() {
           <Col className='6'>
             <Calculator/>
           </Col>
-          <Col className='6'>
-            <img src='C:\Users\SreedeviRavindranadh\OneDrive\Documents\Dev\portfolioproject\calculator\src\app\assets\img\minions.jpg'/>
-          </Col>
         </Row>
       </Container>
     </div>
